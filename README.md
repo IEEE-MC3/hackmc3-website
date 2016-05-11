@@ -1,2 +1,2 @@
-# hackmc3
-Repository for HackMC3's website and other material
+# hackmc3-website
+Repository for HackMC3's website

@@ -1,2 +1,30 @@
 body {
-  color: green; }
+  color: #680216;
+  font-family: "Lato";
+  padding-top: 50px; }
+
+h1 {
+  font-size: 3.0rem;
+  font-weight: bold; }
+
+.header {
+  min-height: 700px;
+  padding-top: 30px; }
+
+#info-blurb, #sponsor-blurb, #registration-blurb {
+  padding: 70px;
+  min-height: 400px; }
+
+.header p {
+  font-size: 2.0rem; }
+
+.index-header {
+  background-image: url(index_header.jpeg);
+  background-size: cover; }
+
+.header img {
+  max-height: 300px;
+  margin: auto; }
+
+.registration-form {
+  margin: 30px; }

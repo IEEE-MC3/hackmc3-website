@@ -1,5 +1,5 @@
-# hackmc3-website
-Repository for HackMC3's website
+<img src="https://raw.githubusercontent.com/IEEE-MC3/hackmc3-website/master/resources/logo.png" alt="mc3hacks" style="width: 200px;"/>
+
 
 ### Style
 

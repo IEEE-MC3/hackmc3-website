@@ -7,6 +7,53 @@ Generated on 2016-09-30 using
 
 Static site for mc3make event
 
+### Site Requirements
+
+Outline of site requirements
+
+* two pages
+    * home page
+    * information page
+
+
+* header for home page should have links to the following
+    * home page
+    * information page
+    * sponsor section
+    * register now
+
+
+* header for information page should have links to the following
+    * home page
+    * information page
+    * time & location
+    * schedule section
+    * rules section
+    * faq section
+    * register now
+
+
+* home page
+    * should have a header section with a logo, date, and location
+    * should have a tagline
+    * should have a section for sponsors
+    * should have a section to register
+    * should have a footer to contact us
+
+
+* information page
+    * should have the data and location, including times
+    * should have a schedule of events
+    * should have a section for explaining who can participate
+    * should have a section which explains the theme
+    * should have a section for rules and code of conduct
+    * should have a section for frequently asked questions (hidden, if none are available at the moment)
+    * should have a footer to contact us
+
+
+* register now section needs to have a link to mhl to sign up
+
+
 ## Technologies used
 
 JavaScript

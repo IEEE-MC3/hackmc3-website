@@ -7,6 +7,15 @@ Generated on 2016-09-30 using
 
 Static site for mc3make event
 
+### Colors
+
+```scss
+$dark-red: #7f0000;
+$normal-red: #c46a5b;
+$lighter-red: #d48a7c;
+$pale-red: #ebc8c1;
+```
+
 ### Site Requirements
 
 Outline of site requirements
